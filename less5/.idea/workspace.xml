@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df5b9059-74e5-4c22-a8b1-884bf8738133" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZyZqYpcpShb6iKnMdT4YKFEsKv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\OSPanel\domains\less5\include" />
+      <recent name="C:\OpenServer\OSPanel\domains\less5\config" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df5b9059-74e5-4c22-a8b1-884bf8738133" name="Default Changelist" comment="" />
+      <created>1585813485842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585813485842</updated>
+      <workItem from="1585813487078" duration="3484000" />
+      <workItem from="1585901216459" duration="284000" />
+      <workItem from="1586180826317" duration="4726000" />
+      <workItem from="1586276594102" duration="120000" />
+      <workItem from="1586355771399" duration="3332000" />
+      <workItem from="1586428794107" duration="15228000" />
+      <workItem from="1586453994259" duration="2939000" />
+      <workItem from="1586518461969" duration="7552000" />
+      <workItem from="1586601127924" duration="7929000" />
+      <workItem from="1586688585605" duration="2779000" />
+      <workItem from="1586868612781" duration="2322000" />
+      <workItem from="1587027935647" duration="4048000" />
+      <workItem from="1587123460787" duration="3383000" />
+      <workItem from="1587219622146" duration="5284000" />
+      <workItem from="1587284967872" duration="6691000" />
+      <workItem from="1587467474012" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="604" y="337" key="NewPhpFileDialog" timestamp="1586455586322">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="337" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1586455586322" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1587467482590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587467482590" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1586438595718">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1586438595718" />
+  </component>
+</project>
